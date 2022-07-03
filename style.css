@@ -8,3 +8,19 @@
 .carousel-control-prev {
 	width: 3rem;
 }
+
+.c-img {
+	height: 25rem;
+}
+.price {
+	color: #41adf1;
+}
+
+.buy-now-button {
+	background-image: linear-gradient(to bottom, #41adf1 0%, #55abe0 100%);
+	border: none;
+	border-radius: 0.4rem;
+	padding: 0.5rem 1.5rem;
+	margin-top: 0.5rem;
+	color: #fff;
+}
