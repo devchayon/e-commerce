@@ -66,3 +66,20 @@
 	border: none;
 	box-shadow: 5px 5px 10px lightgray;
 }
+
+#backpacks .bag-img {
+	height: 18rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.img-bag {
+	height: 18rem;
+	width: auto;
+}
+
+#backpacks .card {
+	border: none;
+	box-shadow: 5px 5px 10px lightgray;
+}
