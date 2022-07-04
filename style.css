@@ -24,3 +24,33 @@
 	margin-top: 0.5rem;
 	color: #fff;
 }
+
+.cat-1 {
+	background-color: #f0ed6a;
+}
+
+.cat-2 {
+	background-color: #98f897;
+}
+
+.cat-3 {
+	background-color: #f0b7af;
+}
+
+.cat-img {
+	height: 7rem;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+	padding: 0.7rem 1rem;
+	border-radius: 0.5rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.catagories h1 {
+	color: #fff;
+}
