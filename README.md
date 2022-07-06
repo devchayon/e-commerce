@@ -1,1 +1,1 @@
-# e-commerce bootstrap
+# https://devchayon.github.io/e-commerce-bootstrap-simple/
